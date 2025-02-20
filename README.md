@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs desde 2022<br>📚 Actualmente estou a aprender React Js<br>🎯 Objectivos: Tornar-me um desenvolvedor full-stack e um desenvolvedor de jogos</p>
+<p align="left">✨ Criando Bugs desde 2022<br>📚 Actualmente estou a Aprender Next js<br>🎯 Objectivos: Tornar-me um desenvolvedor full-stack e um desenvolvedor de jogos</p>
 
 ###
 
