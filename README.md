@@ -1,35 +1,45 @@
-<h1 align="left">Hello world!!</h1>
+👋 Hello, I'm Adão Fernando Monteiro!
 
-###
+🔍 About Me  
+I am a passionate software developer currently pursuing a Technical degree in Informatics. I specialize in **web application development** using modern technologies like **React** and **Next.js**. I'm constantly exploring new areas of development, with a focus on building interactive and scalable solutions. My journey is guided by a desire for **continuous growth**, **collaboration**, and creating impactful digital experiences.
 
-<p align="left">👋 Olá, Eu sou o @AdaoTchiyombe20, estou interessado em melhorar minhas habilidades de programação e aprender novas tecnologias e frameworks.</p>
+🌱 Currently Learning  
+- Next.js  
+- Advanced React concepts (useRef, useEffect, API calls)  
+- Software Architecture and Clean Code Principles
+- Cyber Security
 
-###
+💞 Collaboration  
+I thrive in team environments and love collaborating on open-source or impactful real-world projects. If you’re looking for a dedicated and enthusiastic collaborator, let’s connect!
 
-<h2 align="left">Sobre mim</h2>
+📫 How to Reach Me  
+- WhatsApp: (+244) 957065590
+- LinkedIn:https://www.linkedin.com/in/ad%C3%A3o-tchiyombe/
+- Email: adaotchiyombe@gmail.com
 
-###
+👀 Interests  
+I'm particularly interested in:  
+- Frontend frameworks (React, Next.js)  
+- Web APIs and Microservices  
+- UX/UI Design principles  
+- DevOps and deployment workflows
+- Cyber Security 
 
-<p align="left">✨ Criando Bugs desde 2022<br>📚 Actualmente estou a Aprender Next js<br>🎯 Objectivos: Tornar-me um desenvolvedor full-stack e um desenvolvedor de jogos</p>
+🛠️ My Skills  
+- JavaScript (ES6+)  
+- React.js & Next.js  
+- HTML, CSS, Bootstrap  
+- Git & GitHub  
+- API Integration  
 
-###
+🎯 Future Goals  
+- Deepen my understanding of full-stack development  
+- Contribute to open-source projects  
+- Land a rewarding internship where I can grow and contribute meaningfully  
 
-<h2 align="left">I code with</h2>
+🔗 Useful Links  
+- https://github.com/AdaoTchiyombe20/
 
-###
+🌟 Let's Connect!  
+Always happy to connect with like-minded developers, mentors, and tech enthusiasts. Don’t hesitate to reach out if you want to collaborate or just talk tech!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<!---
-AdaoTchiyombe20/AdaoTchiyombe20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
