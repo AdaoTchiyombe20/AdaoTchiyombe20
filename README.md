@@ -28,7 +28,7 @@ I'm particularly interested in:
 🛠️ My Skills  
 - JavaScript (ES6+)  
 - React.js & Next.js  
-- HTML, CSS, Bootstrap  
+- HTML, CSS, Tailwind.css 
 - Git & GitHub  
 - API Integration  
 
