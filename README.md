@@ -1,45 +1,120 @@
-👋 Hello, I'm Adão Tchiyombe!
+# 👋 Olá, eu sou Adão Mariano Sapalo Tchiyombe
 
-🔍 About Me  
-I am a passionate software developer currently pursuing a Technical degree in Informatics. I specialize in **web application development** using modern technologies like **React** and **Next.js**. I'm constantly exploring new areas of development, with a focus on building interactive and scalable solutions. My journey is guided by a desire for **continuous growth**, **collaboration**, and creating impactful digital experiences.
+🎓 Estudante de **Técnico de Informática**
 
-🌱 Currently Learning  
-- Next.js  
-- Advanced React concepts (useRef, useEffect, API calls)  
-- Software Architecture and Clean Code Principles
-- Cyber Security
+💻 Desenvolvedor focado em **aplicações web modernas**
 
-💞 Collaboration  
-I thrive in team environments and love collaborating on open-source or impactful real-world projects. If you’re looking for a dedicated and enthusiastic collaborator, let’s connect!
+🚀 Em busca de crescimento contínuo como **Software Engineer**
 
-📫 How to Reach Me  
-- WhatsApp: (+244) 957065590
-- LinkedIn:https://www.linkedin.com/in/ad%C3%A3o-tchiyombe/
-- Email: adaotchiyombe@gmail.com
+---
 
-👀 Interests  
-I'm particularly interested in:  
-- Frontend frameworks (React, Next.js)  
-- Web APIs and Microservices  
-- UX/UI Design principles  
-- DevOps and deployment workflows
-- Cyber Security 
+## 🧠 Sobre mim
 
-🛠️ My Skills  
-- JavaScript (ES6+)  
-- React.js & Next.js  
-- HTML, CSS, Tailwind.css 
-- Git & GitHub  
-- API Integration  
+Sou um desenvolvedor em formação com foco na construção de aplicações web funcionais, bem estruturadas e escaláveis.
+Gosto de entender não apenas *como* implementar soluções, mas *porquê* certas decisões técnicas são melhores do que outras.
 
-🎯 Future Goals  
-- Deepen my understanding of full-stack development  
-- Contribute to open-source projects  
-- Land a rewarding internship where I can grow and contribute meaningfully  
+Tenho interesse em ambientes profissionais onde possa:
 
-🔗 Useful Links  
-- https://github.com/AdaoTchiyombe20/
+* Aprender com desafios reais
+* Evoluir tecnicamente e em comunicação com clientes
+* Contribuir para soluções úteis e bem pensadas
+* Trabalhar em equipa com responsabilidade e consistência
 
-🌟 Let's Connect!  
-Always happy to connect with like-minded developers, mentors, and tech enthusiasts. Don’t hesitate to reach out if you want to collaborate or just talk tech!
+---
 
+## 🛠️ Tecnologias e Ferramentas
+
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Next.js
+
+### ⚙️ Backend
+
+* Node.js
+* Express
+* TypeScript
+
+### 🗄️ Base de Dados
+
+* PostgreSQL
+* Prisma ORM
+
+### 🔧 Outras ferramentas
+
+* Git & GitHub
+* REST APIs
+* Swagger / Documentação de APIs
+* Autenticação com JWT
+* Arquitetura básica de aplicações web
+
+---
+
+## 📚 Atualmente estou focado em
+
+* Construção de **aplicações web completas (full-stack)**
+* Melhoria da **arquitetura de backend**
+* Boas práticas de autenticação e segurança
+* Estruturação profissional de projetos
+* Evolução no **inglês técnico e comunicação**
+
+---
+
+## 🎯 Objetivos de carreira
+
+### Curto prazo
+
+* Conseguir estágio/primeira oportunidade profissional em desenvolvimento web
+* Fortalecer fundamentos de backend e arquitetura
+* Construir projetos reais com qualidade de produção
+
+### Médio prazo
+
+* Tornar-me **Software Engineer full-stack sólido**
+* Trabalhar com sistemas escaláveis
+* Participar de projetos com impacto real em utilizadores
+
+### Longo prazo
+
+* Especializar-me em engenharia de software avançada
+* Contribuir para soluções complexas e bem desenhadas
+* Evoluir para papéis de maior responsabilidade técnica
+
+---
+
+## 📂 Projetos
+
+Aqui no GitHub vais encontrar projetos focados em:
+
+* Aplicações web interativas
+* APIs REST com autenticação
+* Interfaces modernas
+* Sistemas completos com frontend + backend
+
+---
+
+## 📈 Filosofia de desenvolvimento
+
+Acredito que bom software deve ser:
+
+* **Simples antes de complexo**
+* **Legível antes de inteligente**
+* **Seguro antes de rápido**
+* **Escalável antes de popular**
+
+Prefiro construir poucos projetos bem feitos do que muitos superficiais.
+
+---
+
+## 🤝 Contacto
+
+* GitHub: *https://github.com/AdaoTchiyombe20/*
+* LinkedIn: *https://www.linkedin.com/in/ad%C3%A3o-tchiyombe-58a363321/*
+* Email: *adaotchiyombe@gmail.com*
+
+---
+
+⭐ Se algum projeto te interessar, fica à vontade para explorar ou dar feedback.
